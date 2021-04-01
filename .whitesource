@@ -3,7 +3,6 @@
     "configMode": "AUTO",
     "configExternalURL": "",
     "projectToken": "",
-    "enableLicenseViolations": "true",
     "baseBranches": []
   },
   "checkRunSettings": {
