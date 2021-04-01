@@ -233,7 +233,7 @@
 
     <modules>
         <module>boms</module>
-        <module>common</module>
+        <module>common</module>    
         <module>core</module>
         <module>dependencies</module>
         <module>server-spi</module>
