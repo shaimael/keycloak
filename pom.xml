@@ -25,7 +25,7 @@
         <version>37</version>
     </parent>
 
-    <name>Keycloak</name>
+    <name>Keycloak</name>    
     <description>
         Keycloak SSO
     </description>
