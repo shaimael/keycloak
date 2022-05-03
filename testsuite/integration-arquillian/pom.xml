@@ -62,7 +62,7 @@
         <undertow-embedded.version>1.0.0.Alpha2</undertow-embedded.version>
         <version.org.wildfly.extras.creaper>1.6.1</version.org.wildfly.extras.creaper>
         <testcontainers.version>1.5.1</testcontainers.version>
-        <appium.client.version>6.1.0</appium.client.version>
+        <appium.client.version>8.0.0</appium.client.version>
 
         <!--migration properties-->
         <migration.70.version>1.9.8.Final</migration.70.version>
